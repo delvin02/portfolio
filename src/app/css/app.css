@@ -1510,6 +1510,12 @@ div.uk-position-center
 {
   position: relative;
 }
+.yb-block {
+  background-color: transparent;
+}
+.pad {
+  padding: 30px;
+}
 
 /*              <div class="uk-container-center">
               <p class="uk-text-bold touch-font">Let's socialize</p>
