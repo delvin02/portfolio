@@ -4,7 +4,6 @@
   var is_resize = false;
   var myscroll, myresize;
 
-  //Run function when document ready
   $(document).ready(function() {
     init_full_height();
     init_pageloader();
